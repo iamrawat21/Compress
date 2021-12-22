@@ -1,0 +1,17 @@
+{
+  "name": "zipmanger",
+  "version": "1.0.0",
+  "description": "Zipmanger",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Devansh",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.14"
+  }
+}
